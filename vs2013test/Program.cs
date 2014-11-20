@@ -10,6 +10,7 @@ namespace vs2013test
     {
         static void Main(string[] args)
         {
+            string dupa;
         }
     }
 }
